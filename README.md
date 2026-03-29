@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👩🏻‍💻 Leonardo Moreira Prada
 
-<!--
-**Prada-07/Prada-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de ADS`**
 
-Here are some ideas to get you started:
+Me chamo Leonardo Moreira Prada, tenho 18 anos e sou natural de Mogi das Cruzes, São Paulo. Atualmente estou no começo do Ensino Superior, cursando Análise e Desenvolvimento de Sistemas, na Universidade de Mogi das Cruzes, onde estou me aprofundando em Python e lógica de programação.. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu LinkdIn [Leonardo Moreira Prada](https://www.linkedin.com/in/leonardo-moreira-prada-138638339/), onde demonstro alguns projetos academicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
+<p align="left">  
+     </a> 
+    <a href="https://github.com/Prada-07?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Prada-07?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+  
+  <a href="https://github.com/Prada-07?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Prada-07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+  </p>
+
+  ### 🤖 Linguagens e Tecnologias
+
+  <img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+
+  
+
+</p>

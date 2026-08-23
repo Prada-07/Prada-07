@@ -2,7 +2,7 @@
 
 **`Estudante de ADS`**
 
-Me chamo Leonardo Moreira Prada, tenho 18 anos e sou natural de Mogi das Cruzes, São Paulo. Atualmente estou no começo do Ensino Superior, cursando Análise e Desenvolvimento de Sistemas, na Universidade de Mogi das Cruzes, onde estou me aprofundando em Python e lógica de programação.. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu LinkdIn [Leonardo Moreira Prada](https://www.linkedin.com/in/leonardo-moreira-prada-138638339/), onde demonstro alguns projetos academicos.
+Me chamo Leonardo Moreira Prada, tenho 18 anos e sou natural de Mogi das Cruzes, São Paulo. Atualmente estou no começo do Ensino Superior, cursando Análise e Desenvolvimento de Sistemas, na Faculdade de Tecnologia de Mogi das Cruzes, onde estou me aprofundando em Python e lógica de programação. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu LinkdIn [Leonardo Moreira Prada](https://www.linkedin.com/in/leonardo-moreira-prada-138638339/), onde demonstro alguns projetos pessoais e acadêmicos.
 
    
 <p align="left">  

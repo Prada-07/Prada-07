@@ -1,6 +1,8 @@
 # 👩🏻‍💻 Leonardo Moreira Prada
 
 **`Estudante de ADS`**
+**`FATEC`**
+**`Python`**
 
 Me chamo Leonardo Moreira Prada, tenho 18 anos e sou natural de Mogi das Cruzes, São Paulo. Atualmente estou no começo do Ensino Superior, cursando Análise e Desenvolvimento de Sistemas, na Faculdade de Tecnologia de Mogi das Cruzes, onde estou me aprofundando em Python e lógica de programação. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu LinkdIn [Leonardo Moreira Prada](https://www.linkedin.com/in/leonardo-moreira-prada-138638339/), onde demonstro alguns projetos pessoais e acadêmicos.
 
@@ -31,6 +33,14 @@ Me chamo Leonardo Moreira Prada, tenho 18 anos e sou natural de Mogi das Cruzes,
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+    <img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg" 
 />
 
 

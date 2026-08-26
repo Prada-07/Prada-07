@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/prada_nox/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="file:///C:/Users/prada/Downloads/vaga-match-curriculo%20(1).pdf" target="_blank">
+  <a href="https://drive.google.com/drive/u/0/home?ths=true" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Currículo">
   </a>
 </p>

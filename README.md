@@ -1,49 +1,52 @@
-# 👩🏻‍💻 Leonardo Moreira Prada
+<div align="right">
+  <a href="./README.md">🇧🇷 PT-BR</a> | 
+  <a href="./README_EN.md">🇺🇸 EN</a>
+</div>
+<h1 align="center">Leonardo Moreira Prada</h1>
 
-**`Estudante de ADS`**
-**`FATEC`**
-**`Python`**
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Faculdade de Tecnologia do Estado de São Paulo</h3>
 
-Me chamo Leonardo Moreira Prada, tenho 18 anos e sou natural de Mogi das Cruzes, São Paulo. Atualmente estou no começo do Ensino Superior, cursando Análise e Desenvolvimento de Sistemas, na Faculdade de Tecnologia de Mogi das Cruzes, onde estou me aprofundando em Python e lógica de programação. Sou fascinado por tecnologia e compartilho meu conhecimento através do meu LinkdIn [Leonardo Moreira Prada](https://www.linkedin.com/in/leonardo-moreira-prada-138638339/), onde demonstro alguns projetos pessoais e acadêmicos.
-
-   
-<p align="left">  
-     </a> 
-    <a href="https://github.com/Prada-07?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Prada-07?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-  
-  <a href="https://github.com/Prada-07?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Prada-07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-  </p>
-
-  ### 🤖 Linguagens e Tecnologias
-
-  <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-    <img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg" 
-/>
-
-
-  
-
+<p align="center">
+  São Paulo, Brasil <br>
+  Em busca de novas oportunidades!
 </p>
+
+
+<p align="center">
+  <a href="mailto:prada181107@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-moreira-prada-138638339/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/prada_nox/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="file:///C:/Users/prada/Downloads/vaga-match-curriculo%20(1).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Currículo">
+  </a>
+</p>
+
+### Sobre mim
+
+* Cursando **ADS** na **FATEC**
+* Desenvolvedor iniciante em **Python, C++**.
+* Focando meus estudos atuais e evoluindo em **Java, JavaScript**.
+* **Idiomas:** Inglês Avançado | Português Nativo.
+* **Status:** Aberto a oportunidades como **Desenvolvedor**, com interesse em continuar evoluindo tecnicamente em projetos reais.
+
+### Tecnologias e Ferramentas
+**Backend**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,cpp,html" alt="Backend" />
+</a>
+<br><br>
+
+**Ferramentas**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aiscript,vscode,docker" alt="Ferramenas" />
+</a>
+<br><br>
+
+### Projetos em Destaque
+**[Armazenador de Senhas](https://github.com/Prada-07/Projetos-para-treino/blob/main/SENHA.md):** Construção de um armazenador e gerador de senhas aleatória, utilizando arquivos de texto.
